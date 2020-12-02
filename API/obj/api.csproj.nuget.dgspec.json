@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Angular Projects\\DatingApp\\api\\api.csproj": {}
+    "F:\\Angular Projects\\DatingApp\\API\\api.csproj": {}
   },
   "projects": {
-    "F:\\Angular Projects\\DatingApp\\api\\api.csproj": {
+    "F:\\Angular Projects\\DatingApp\\API\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Angular Projects\\DatingApp\\api\\api.csproj",
+        "projectUniqueName": "F:\\Angular Projects\\DatingApp\\API\\api.csproj",
         "projectName": "api",
-        "projectPath": "F:\\Angular Projects\\DatingApp\\api\\api.csproj",
+        "projectPath": "F:\\Angular Projects\\DatingApp\\API\\api.csproj",
         "packagesPath": "C:\\Users\\emoha\\.nuget\\packages\\",
-        "outputPath": "F:\\Angular Projects\\DatingApp\\api\\obj\\",
+        "outputPath": "F:\\Angular Projects\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emoha\\AppData\\Roaming\\NuGet\\NuGet.Config",

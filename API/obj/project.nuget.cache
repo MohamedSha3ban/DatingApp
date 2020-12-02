@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cQw+JVtueuNpkmR1VC7xB/OFhz4kTFS3utGAQGPpe06i+0PstU1dYRzBL8FQ4Aak0pDgZKdeBY5b3n8oXQ0h4A==",
+  "dgSpecHash": "duRsMdRV3/7yPIaMBQjVNygHCOnw6kTvE75S5Jx8qwVTx5K1YEKNCF9ISgkIXvxf16NkO74npkQ1fe1vSrsf+g==",
   "success": true,
-  "projectFilePath": "F:\\Angular Projects\\DatingApp\\api\\api.csproj",
+  "projectFilePath": "F:\\Angular Projects\\DatingApp\\API\\api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emoha\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\emoha\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
